@@ -7,7 +7,11 @@ Unveiling fraudulent activities through insightful exploratory data analysis! Th
 ## 📊 Overview
 Fraudulent transactions pose significant risks to businesses and consumers alike. With the power of data analysis and visualization, this project identifies patterns, anomalies, and key factors that contribute to fraudulent activities. 💡
 
+## 🖼️ Distribution of Transaction Type from Dataset 
+![Fraud Transaction Distribution](visualizations/transaction_type.png)  
 
+
+--
 
 ## 🖼️ Outputs & Visualizations
 Here are some of the key visualizations generated during the analysis:
